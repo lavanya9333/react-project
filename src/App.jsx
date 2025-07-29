@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 // import Culturist from './culturist';
-import Culturist from './culturist';
+import Culturist from './Culturist';
 import LandingPage, { popularCities } from './LandingPage';
 //  hauai
 const App = () => {
